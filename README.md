@@ -65,7 +65,7 @@ WEAVE operates on a multi-layer architecture:
 
 WEAVE leverages cutting-edge features from STARWEB, including:
 - QR-Flipbook technology for dynamic code execution
-- Recursive QR generation for complex programs
+- Recursive QR generation for complex programs or audio files
 - STARWEAVE-specific patterns for enhanced data density
 - Custom encoding methods for optimized execution
 
